@@ -12,12 +12,12 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "EN"
+    title = "MoshangUSA"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.zh]
-    title = "中文"
+    title = "陌上美国"
     weight = 2
     contentDir = "content/zh"
 

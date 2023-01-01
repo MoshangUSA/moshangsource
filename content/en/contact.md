@@ -12,5 +12,5 @@ menu: main
 You can reach us in the following ways.
 
 - Follow us on [Twitter](https://twitter.com/MoshangUsa).
-- Join our [Telegram group](https://t.me/MoshangUS).
-- [Send an email](mailto:moshangusa@gmx.us) to us.
+- Join our [Telegram Group](https://t.me/MoshangUS).
+- Send us an [Email](mailto:moshangusa@gmx.us) 

@@ -29,7 +29,7 @@ enableRobotsTXT = true
   recent_posts_number = 3
   description = "U.S News, Info, and Opinions"
   author = "MoshangUSA team"
-  favicon = "favicon.ico"
+  favicon = "images/favicon.ico"
   site_logo = ""
   custom_css = ['custom.css']
 

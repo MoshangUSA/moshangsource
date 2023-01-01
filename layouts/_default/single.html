@@ -64,7 +64,7 @@
       {{- partial "menu-contextual.html" . -}}
     </aside>
 
-    <div class = 'subscribe'>
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-100">
       <h2>Subscribe</h2>
       <p>If you liked this post and would like to read more of my posts.</p>
       <a href="https://tinyletter.com/MoshangUSA">Subscribe here for our new posts!</a>

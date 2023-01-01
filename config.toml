@@ -40,3 +40,8 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
  name = "telegram"
  url = "https://t.me/MoshangUS"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

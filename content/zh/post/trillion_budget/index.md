@@ -21,8 +21,8 @@ layout: posts
 那么，就跟着看看咱们交的税将会被怎么花掉吧。
 
 砍掉了海关和边境保护局（[Customs and Border Protection](https://www.cbp.gov/)，CBP）的拨款。没有这种手印怎么能叫民主党染指的财政预算？
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It expressly prohibits CBP funding from being used to improve border security. <a href="https://t.co/g2F4o1zl2D">pic.twitter.com/g2F4o1zl2D</a></p>&mdash; Rep. Dan Bishop (@RepDanBishop) <a href="https://twitter.com/RepDanBishop/status/1605255430304927746?ref_src=twsrc%5Etfw">December 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-{{< figure src="image/3.png" caption="[Twitter link](https://twitter.com/RepDanBishop/status/1605253710753501186?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1605255430304927746%7Ctwgr%5Ee80e0775cbfd4ef9e58281145d75bd1093287b09%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Ftelegra.ph%2Fembed%2Ftwitter%3Furl%3Dhttps3A2F2Ftwitter.com2FRepDanBishop2Fstatus2F16052554303049277463Fs3D2026t3DvARpY7kdz-yxaT5E8qohTw)">}}
 
 不过有读者补充了内容，指出在另一项条例下，包含了2.3亿给边防科技的拨款。
 
@@ -31,16 +31,16 @@ layout: posts
 但是这多吗？看看下一条就一目了然，给约旦、黎巴嫩、埃及、突尼斯和阿曼的边境安全支援都比给自己国家的高近乎一倍，4.1亿。
 
 此外，当然少不了给国际组织付会员费，比如联合国，累计就超过14亿。
-{{< figure src="image/5.png" caption="[Twitterlink](https://twitter.com/RepDanBishop/status/1605255433597460480)">}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And, of course, $1,438,000,000 for membership in global multilateral organizations, including the UN. <a href="https://t.co/LHjDYXG2Us">pic.twitter.com/LHjDYXG2Us</a></p>&mdash; Rep. Dan Bishop (@RepDanBishop) <a href="https://twitter.com/RepDanBishop/status/1605259401761550342?ref_src=twsrc%5Etfw">December 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 
 光是“三文鱼”就在法案中出现48次，保护这一个动物就给了6500万。🤔不给气候比大展身手的机会，怎么显示民主党爱科学（教）的本色。
-
-{{< figure src="image/6.png" caption="[Twitterlink](https://twitter.com/RepDanBishop/status/1605261027486081038)">}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">$65 million for salmon? <br><br>Seems fishy. <a href="https://t.co/JSdjpuffGq">pic.twitter.com/JSdjpuffGq</a></p>&mdash; Rep. Dan Bishop (@RepDanBishop) <a href="https://twitter.com/RepDanBishop/status/1605263749597765646?ref_src=twsrc%5Etfw">December 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 给建保护🐝蜜蜂的高速公路拨款300万，同一条款中还有500万，又是给三文鱼业。
 
 其他鱼🐟也不会失宠的，给了6570万补贴国际渔业。谁让拜登说过“人类跟鱼可以和平相处”。
-{{< figure src="image/7.png" caption="[Twitterlink](https://twitter.com/RepDanBishop/status/1605263752760369153)">}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And lest the other fish feel left out of the spending spree, here&#39;s $65.7 million for international fisheries commissions. <br><br>Perhaps President Bush was onto something when he said &quot;I know the human being and the fish can coexist peacefully.&quot; <a href="https://t.co/2P7CkeI5pe">pic.twitter.com/2P7CkeI5pe</a></p>&mdash; Rep. Dan Bishop (@RepDanBishop) <a href="https://twitter.com/RepDanBishop/status/1605267942173712404?ref_src=twsrc%5Etfw">December 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 至少5.75亿将投放给所谓的人口增长威胁到生物多样性的地区，打着的名号却是“家庭计划”。
 
@@ -49,8 +49,8 @@ Bishop议员评论，“马尔萨斯主义（即人口控制计划）是一种�
 下面一项是花纳税人的钱，给沼泽大颚级别的政客献媚。累计6500万美元，花在给Leahy参议员搞两个项目，以及将一个联邦建筑以南希·佩洛西（Nancy Pelosi）命名。
 
 难怪极左忙着推倒杰斐逊等建国先贤的雕像，不破不立，否则南希这类人怎么找到位置让名字排上“永垂不朽”？
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">$65 million in two programs for Senator Leahy, and a federal building named for Nancy Pelosi.<br><br>Swamp gonna Swamp. <a href="https://t.co/NCEv8NtvdY">pic.twitter.com/NCEv8NtvdY</a></p>&mdash; Rep. Dan Bishop (@RepDanBishop) <a href="https://twitter.com/RepDanBishop/status/1605274346741813277?ref_src=twsrc%5Etfw">December 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-{{< figure src="image/8.png" caption="[Twitterlink](https://twitter.com/RepDanBishop/status/1605267946330267673)">}}
 
 这类献媚工程还多了去了，一串清单中，惊现花360万美元给一条小径命名为“米歇尔·奥巴马路”这档子事。
 
@@ -63,18 +63,19 @@ Bishop议员评论，“马尔萨斯主义（即人口控制计划）是一种�
 120万美元用于“为DACA（跟父母一起非法入境时候还是未成年人）提供服务”；
 
 为美国最富有的县之一（佛吉尼亚州的Fairfax费尔法克斯），提供410万美元的各种职业计划。
-{{< figure src="image/9.png" caption="[Twitter link](https://twitter.com/RepDanBishop/status/1605274350718013466)">}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A few more earmarks:<br><br>$477k for &quot;antiracist&quot; training from the Equity Institute<br><br>$3 million for the LGBTQ+ museum in NYC<br><br>$1.2 million in &quot;services for DACA recipients&quot;<br><br>$4.1 million in various career programs for one of the richest counties in the US (Fairfax) <a href="https://t.co/pPTxuTwGfQ">pic.twitter.com/pPTxuTwGfQ</a></p>&mdash; Rep. Dan Bishop (@RepDanBishop) <a href="https://twitter.com/RepDanBishop/status/1605279385958875136?ref_src=twsrc%5Etfw">December 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 
 给乌克兰再拨款470亿美元，其中包括给乌克兰政府解决一些工资，且要在DC花钱建一个乌克兰独立公园。如果这个还没有让你皱眉头，那么再来一把，还要拨款给一些记者、媒体人甚至动物建纪念碑。
-{{< figure src="image/10.png" caption="[Twitter link](https://twitter.com/RepDanBishop/status/1605282052219277313?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1605286312344535041%7Ctwgr%5E076f629305e78c605fadfe1d9b7e39f4db751ab3%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Ftelegra.ph%2Fembed%2Ftwitter%3Furl%3Dhttps3A2F2Ftwitter.com2FRepDanBishop2Fstatus2F16052863123445350413Fs3D2026t3Db8MQf31BoQ47khHDX1DwCA">}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Also, monuments for journalists and service animals... <a href="https://t.co/QWencgXZDs">pic.twitter.com/QWencgXZDs</a></p>&mdash; Rep. Dan Bishop (@RepDanBishop) <a href="https://twitter.com/RepDanBishop/status/1605286312344535041?ref_src=twsrc%5Etfw">December 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 法案还要拨款给25个邮局重新命名，尽管已经给几十个这么干过了。很快这班家伙就会找不到没有改名的邮局了。
 
 划重点线的事来了：5.24亿将投资给NIH附属机构，专门用于搞DEI项目以战斗“系统性种族歧视”。
 
 谁让我们在经历美国式文革呢？奇怪吗，不奇怪，还不知道是多少年，现在恐怕只是开始阶段而已。
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">$524.4 million for a DEI and &quot;structural racism&quot; focused NIH subdivision - <a href="https://t.co/41Pl1Z1jBu">https://t.co/41Pl1Z1jBu</a> <a href="https://t.co/dfKJdf3PMt">pic.twitter.com/dfKJdf3PMt</a></p>&mdash; Rep. Dan Bishop (@RepDanBishop) <a href="https://twitter.com/RepDanBishop/status/1605288673079185410?ref_src=twsrc%5Etfw">December 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-{{< figure src="image/11.png" caption="[Twitter link](https://twitter.com/RepDanBishop/status/1605286315574153234?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1605288673079185410%7Ctwgr%5Eaedc97697b2306f4c1e37b9aaeca37456cb31320%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Ftelegra.ph%2Fembed%2Ftwitter%3Furl%3Dhttps3A2F2Ftwitter.com2FRepDanBishop2Fstatus2F16052886730791854103Fs3D2026t3Db8MQf31BoQ47khHDX1DwCA)">}}
 
 后面还有很多槽点，包括3.35亿美元为下一次大型疫情做准备！！其中还给监控之类的项目做了预算。
 
@@ -89,7 +90,6 @@ Bishop议员评论，“马尔萨斯主义（即人口控制计划）是一种�
 5.35亿美元用于联邦公共广播事业，将通过赠款间接资助NPR，这个极左化的平台公器私用；
 
 2.86亿美元的Title X资金，用纳税人的钱资助堕胎Planned Parenthood。
-
-{{< figure src="image/12.png" caption="[Twitter link](https://twitter.com/RepDanBishop/status/1605288676199903232?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1605293424814747648%7Ctwgr%5E8fe6b49c47872b8c4be003ff610720ace245b056%7Ctwcon%5Es2_&ref_url=https%3A%2F%2Ftelegra.ph%2Fembed%2Ftwitter%3Furl%3Dhttps3A2F2Ftwitter.com2FRepDanBishop2Fstatus2F16052934248147476483Fs3D2026t3DvARpY7kdz-yxaT5E8qohTw)">}}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Of course, there&#39;s a section for NDAA corrections - another gargantuan bill that passed in a rush. <br><br>Because God forbid that Congress actually proofread legislation before passing it! <a href="https://t.co/T81zEdmYQw">pic.twitter.com/T81zEdmYQw</a></p>&mdash; Rep. Dan Bishop (@RepDanBishop) <a href="https://twitter.com/RepDanBishop/status/1605293424814747648?ref_src=twsrc%5Etfw">December 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 还有更多，我这总结了大概2/3，太多各种特殊利益集团的爬行了。

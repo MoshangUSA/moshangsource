@@ -13,8 +13,10 @@ layout: posts
 
 这种推进节奏，自然也让人怀疑是想带球私货突破吗？没时间读全文的，看这两个最有代表性的剧透就能大概知道整个法案的造型了：
 
-![image](image/1.jpg)
-![image](image/2.jpg)
+<p float="left">
+<img src="image/1.jpg" alt="drawing" width="400"/>
+<img src="image/2.jpg" alt="drawing" width="400"/>
+</p>
 
 不过，北卡的众议员Dan Bishop突然一声吼，我的团队把这4000多页的法案给啃完了，下面是要点总结！
 

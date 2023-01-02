@@ -8,6 +8,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+hasCJKLanguage = true
 
 [languages]
     [languages.zh]
@@ -32,6 +33,7 @@ enableRobotsTXT = true
   favicon = "images/favicon.ico"
   site_logo = ""
   custom_css = ['custom.css']
+  body_classes = "myfont bg-near-white"
 
 [[params.ananke_socials]]
   name = "twitter"

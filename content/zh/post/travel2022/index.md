@@ -11,10 +11,13 @@ tags: ["travel"]
 <!--more-->
 
 {{< youtube u72wpqWCiG4>}}
+（Rumble链接：
+https://rumble.com/v23hajg-from-the-pacific-ocean-to-the-atlantic-ocean-travels-from-coast-to-coast-in.html
+）
 
 看到美国大地各处的旖旎风光、山河多娇，与各种亲切友善的人群交流沟通，无比感恩自己和后代能生活在这片富饶美丽的土地，享受前人奋斗出来的自由和文明。同时，也到了我们自己奉献和传承美国精神的时刻，一起携手，保持乐观，积极努力吧。
 
-![image](image/1.jpg)
+![image](1.jpg)
 
 其中黄石和大提顿国家公园部分，之前也做过一期视频。感兴趣的朋友请欣赏秋冬交接之际，黄石和大提顿国家摄人心魄的风光。
 

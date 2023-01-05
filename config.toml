@@ -26,7 +26,7 @@ hasCJKLanguage = true
   filename = "sitemap.xml"
 
 [params]
-  date_format = "2. January 2006"
+  date_format = "2006 Jan. 2"
   recent_posts_number = 3
   description = "U.S News, Info, and Opinions"
   author = "MoshangUSA team"

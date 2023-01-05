@@ -5,6 +5,7 @@ description: "The U.S. is a republic. The word \"Democracy\" has never appeared 
 layout: posts
 tags: ["BilingualPosts","Republic","Democracy","dictatorship","centralization","anarchy","politics","U.S. society","education","history"]
 weight: 1
+featured_image: bkg.jpg
 ---
 
 The U.S. is a republic. The word "Democracy" has never appeared in the Declaration of Independence and the Constitution.
